@@ -5,16 +5,6 @@ We're going to walk you how to deploy a MERN stack app to Heroku.
 
 MERN (Mongo, express, React, and Nodejs)
 
-### Perequesites
-1- [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
-
-2- [Git Installed](https://git-scm.com/downloads)
-
-
-Before you move on the steps, make sure you are logged in with your Heroku Account inside your terminal. You can run `heroku login` in your terminal and then follow the steps to make sure you're logged in.
-
-> Note: all these steps below are done inside the main `server.js` file. In our case, inside server.js. 
-
 Assuming you have the following folder structure
 
 ```
